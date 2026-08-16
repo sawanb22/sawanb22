@@ -2,7 +2,7 @@
 <h3 align="center">Generative AI Engineer & Full-Stack Developer, based in India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+run+in+production;RAG+%7C+LangGraph+%7C+FastAPI+%7C+Next.js;Open+to+Generative+AI+%2F+Full-Stack+roles" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+Generative+AI+Engineer;RAG+%7C+LangGraph+%7C+FastAPI+%7C+Next.js;Open+to+Generative+AI+%2F+Full-Stack+roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,16 +24,6 @@
 
 ### 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td><a href="https://github.com/sawanb22/enterprise-AI-research"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sawanb22&repo=enterprise-AI-research&theme=tokyonight&hide_border=true" /></a></td>
-    <td><a href="https://github.com/sawanb22/repflow"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sawanb22&repo=repflow&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center"><a href="https://github.com/sawanb22/StudySprint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sawanb22&repo=StudySprint&theme=tokyonight&hide_border=true" /></a></td>
-  </tr>
-</table>
-
 **[EvidenceLab](https://github.com/sawanb22/enterprise-AI-research)** — A dual-mode AI research and document intelligence platform that combines autonomous multi-source web research with private document RAG, built to address hallucination and source-provenance problems in LLM output. It runs a two-stage retrieval pipeline (pgvector HNSW cosine search plus FlashRank cross-encoder reranking) with a citation-verification gate, backed by 41 automated test suites. It reaches 100% citation traceability, around 70% reduction in retrieval noise from reranking, sub-15ms rerank latency, and 99.9% pipeline resilience through immutable run cloning and JSON self-repair.
 Stack: Python, FastAPI, React, TypeScript, PostgreSQL (pgvector), AWS Bedrock, SQLAlchemy, PyMuPDF, FlashRank, Tavily
 
@@ -49,7 +39,7 @@ Stack: Django REST Framework, React, Vite, Redux Toolkit, TypeScript, Tailwind C
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=sawanb22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=sawanb22&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=sawanb22&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
